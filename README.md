@@ -77,10 +77,10 @@ Boss 1 - Eggplant
 Boss 2 - Dead Guy  
 Boss 3 - Pumpkin Head  
 
-<ins>**Round 2**</ins>   - 1 2 3  
+<ins>**Round 2**</ins>   - 1 3 2   
 Boss 1 - Medusa  
-Boss 2 - Onion Ring  
-Boss 3 - Well  
+Boss 2 - Well  
+Boss 3 - Onion Ring  
 
 <ins>**Round 3**</ins>   - 3 2 1  
 Boss 1 - Spider  
