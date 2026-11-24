@@ -34,7 +34,7 @@ Now if you don't have a console or prefer to play on emulator, all you need to d
 ## How to use this tool
 
 ### Video
-(Coming soon)
+[![Video Explanation](https://img.youtube.com/vi/_QZxxxNwCgA/0.jpg)](https://www.youtube.com/watch?v=_QZxxxNwCgA)
 
 ### Text Explanation
 The controls for the menu are as follows:  
