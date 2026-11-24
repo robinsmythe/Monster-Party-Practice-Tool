@@ -38,9 +38,9 @@ Now if you don't have a console or prefer to play on emulator, all you need to d
 
 ### Text Explanation
 The controls for the menu are as follows:  
-**L/R** to change the values
-**B** to change what you're selecting
-**START** when you are ready to start. Do not press onto Continue.  
+**L/R** to change the values  
+**B** to change what you're selecting  
+**START** when you are ready to start. Do not press onto Continue.    
 
 <ins>**ROUND**</ins>  
 This is what round you go into. You can select Round 1 to 9. (9 being the final boss)
