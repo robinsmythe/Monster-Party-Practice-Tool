@@ -129,4 +129,4 @@ I have worked on this for quite a while now, however there are some slight bugs 
 
 -  Leaving Round 1 Boss 3 boss room will not use the changed colour palette that happens in Round 1
 -  Dying and restarting the round messes up the amount of Bosses that need to be beaten to get the Key (however dying during a boss fight should work fine)
--  Continuing can just softlock you in certain scenarios.
+-  Continuing after death can just softlock you in certain scenarios.
